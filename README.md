@@ -1,2 +1,5 @@
 # MySoftRenderer
-a minimal software render
+a minimal software rasterizer.
+
+
+Shading : Blinn Phong model.
